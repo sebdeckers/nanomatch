@@ -900,7 +900,7 @@ Default: `undefined`
 </details>
 
 <details>
-<summary><strong>snapdragon</strong></summary>
+<summary><strong><a name="sourcemap">sourcemap</a></strong></summary>
 
 ### options.sourcemap
 
